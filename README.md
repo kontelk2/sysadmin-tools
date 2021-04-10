@@ -1,3 +1,3 @@
 # sysadmin-tools
 
-Various scripts in bash shell or python for everyday sysadmin tasks
+Scripts in bash shell or python for everyday sysadmin various tasks
