@@ -8,9 +8,9 @@ declare -ar domains=(
 )
 declare -ar dns_servers=(
 	"192.168.1.1"
-	# "1.1.1.1"
-	# "4.4.4.4"
-	# "8.8.8.8"
+	"1.1.1.1"
+	"4.4.4.4"
+	"8.8.8.8"
 )
 declare -r timeout=2
 for i in "${domains[@]}"; do
