@@ -1,7 +1,7 @@
 # sysadmin-tools
 Scripts in bash shell or python for everyday sysadmin various tasks
 
-##
+
 ## check-mx-records.sh 
 Checking a list of given domains for MX records and responding A records
 
