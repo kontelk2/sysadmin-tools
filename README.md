@@ -1,6 +1,6 @@
 # sysadmin-tools
 
-###Scripts in bash shell or python for everyday sysadmin various tasks
+### Scripts in bash shell or python for everyday sysadmin various tasks
 
 
 ### check-mx-records.sh 
